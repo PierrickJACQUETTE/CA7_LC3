@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="archi.svg"
-   inkscape:export-filename="/home/pierrick/Dropbox/M1Informatique/CircArch1/Projet/jmp.png"
+   inkscape:export-filename="/home/pierrick/Dropbox/Projet/CA7_LC3/Diagramme_temporel/jsrr.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -28,8 +28,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1786022"
-     inkscape:cx="586.76726"
-     inkscape:cy="369.15543"
+     inkscape:cx="594.92381"
+     inkscape:cy="335.21692"
      inkscape:document-units="px"
      inkscape:current-layer="g6428"
      showgrid="false"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -991,7 +991,7 @@
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="Tunnel"
-     style="display:none"
+     style="display:inline"
      transform="translate(0,40.905427)"
      sodipodi:insensitive="true">
     <g
@@ -11065,7 +11065,7 @@
          id="tspan5785"
          x="314.23242"
          y="-6.0284739"
-         style="font-size:30px">Diagramme temporel d'exécution de LDI</tspan></text>
+         style="font-size:30px">Diagramme temporel d'exécution de STI</tspan></text>
     <path
        style="fill:none;stroke:#ff7b00;stroke-width:2.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 495.42136,102.09457 55.15727,0 -3.804,0"
@@ -12582,12 +12582,24 @@
          x="635.64868"
          id="tspan7567-0"
          sodipodi:role="line">WriteReg</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:sans-serif"
+       x="314.83789"
+       y="-5.5541239"
+       id="text5783-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5785-6"
+         x="314.83789"
+         y="-5.5541239"
+         style="font-size:30px">Diagramme temporel d'exécution de JSR</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="g6428"
      inkscape:label="Jsrr"
-     style="display:none"
+     style="display:inline"
      transform="translate(0,40.905427)"
      sodipodi:insensitive="true">
     <path
@@ -13654,5 +13666,17 @@
          x="693.65002"
          id="tspan6717-6"
          sodipodi:role="line">BaseR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:sans-serif"
+       x="313.98944"
+       y="-6.4025874"
+       id="text5783-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5785-5"
+         x="313.98944"
+         y="-6.4025874"
+         style="font-size:30px">Diagramme temporel d'exécution de JSRR</tspan></text>
   </g>
 </svg>
