@@ -1,0 +1,24 @@
+Circuit à faire (commentaire en même temps) :
+
+- Load/Store : (1)
+- ALU : set et reset en 11
+- NZP
+- RegPC : (2)
+- GetAddr : (1)
+
+Circuit à modifier pour LDI et STI (1):
+- LDI/STI
+- DecodeIr
+- RamCtrl
+
+Circuit à modifier pour JSR et JSRR (2):
+- JSR/JSRR
+- DecodeIr
+
+Circuit fini : 
+- BiClock
+- GetCst
+- Offset6
+- Offset9
+- Or16
+- Registres
