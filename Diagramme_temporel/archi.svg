@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="archi.svg"
-   inkscape:export-filename="/home/pierrick/Dropbox/Projet/CA7_LC3/Diagramme_temporel/jsrr.png"
+   inkscape:export-filename="/home/pierrick/Dropbox/Projet/CA7_LC3/Diagramme_temporel/ldi.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -28,10 +28,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1786022"
-     inkscape:cx="564.73323"
+     inkscape:cx="579.05204"
      inkscape:cy="403.09394"
      inkscape:document-units="px"
-     inkscape:current-layer="g6428"
+     inkscape:current-layer="g7383"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1035"
@@ -2235,6 +2235,48 @@
        d="m 1034.72,602.02846 28.0021,0 -1.9314,0"
        id="path6297-4-9"
        inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4407-3-7"
+       d="m 906.72349,505.09062 -157.5838,1.01016 -3.03046,-1.01016"
+       style="fill:none;stroke:#000000;stroke-width:2.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <ellipse
+       transform="translate(0.61665086,-17.577407)"
+       ry="4.979434"
+       rx="4.9794345"
+       cy="523.67822"
+       cx="747.5332"
+       id="ellipse4419-6-0"
+       style="fill:#000c00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.94265747;stroke-miterlimit:3.0999999;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 752.51264,523.67822 c 0,2.75007 -2.22937,4.97944 -4.97944,4.97944 -2.75006,0 -4.97943,-2.22937 -4.97943,-4.97944 0,-2.75006 2.22937,-4.97943 4.97943,-4.97943 2.75007,0 4.97944,2.22937 4.97944,4.97943 z"
+       sodipodi:cx="747.5332"
+       sodipodi:cy="523.67822"
+       sodipodi:rx="4.9794345"
+       sodipodi:ry="4.979434" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="751.43903"
+       y="503.59824"
+       id="text4414-7-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="751.43903"
+         y="503.59824"
+         id="tspan4418-5-3"
+         style="font-size:16px;fill:#000000;fill-opacity:1">4ième bit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="751.99152"
+       y="537.29443"
+       id="text4414-7-3-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="751.99152"
+         y="537.29443"
+         id="tspan4418-5-5-0"
+         style="font-size:16px">14-15ième bits</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2918,6 +2960,48 @@
        d="m 478.24357,159.62926 104.30679,-0.9813 1.82994,-14.71941"
        id="path4967-5"
        inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4407-3-6"
+       d="m 905.87503,505.09062 -157.5838,1.01016 -3.03046,-1.01016"
+       style="fill:none;stroke:#000000;stroke-width:2.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <ellipse
+       transform="translate(-1.0802749,-17.577408)"
+       ry="4.979434"
+       rx="4.9794345"
+       cy="523.67822"
+       cx="747.5332"
+       id="ellipse4419-6-1"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.94265747;stroke-miterlimit:3.0999999;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 752.51264,523.67822 c 0,2.75007 -2.22937,4.97944 -4.97944,4.97944 -2.75006,0 -4.97943,-2.22937 -4.97943,-4.97944 0,-2.75006 2.22937,-4.97943 4.97943,-4.97943 2.75007,0 4.97944,2.22937 4.97944,4.97943 z"
+       sodipodi:cx="747.5332"
+       sodipodi:cy="523.67822"
+       sodipodi:rx="4.9794345"
+       sodipodi:ry="4.979434" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="750.59052"
+       y="503.59827"
+       id="text4414-7-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="750.59052"
+         y="503.59827"
+         id="tspan4418-5-7"
+         style="font-size:16px">4ième bit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="751.14301"
+       y="537.29443"
+       id="text4414-7-3-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="751.14301"
+         y="537.29443"
+         id="tspan4418-5-5-2"
+         style="font-size:16px">14-15ième bits</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3467,6 +3551,56 @@
        d="m 478.24357,160.62926 104.30679,-0.9813 1.82994,-14.71941"
        id="path4967-7"
        inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4407-3-3"
+       d="m 905.87502,505.09062 -157.5838,1.01016 -3.03046,-1.01016"
+       style="fill:none;stroke:#000000;stroke-width:2.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       inkscape:transform-center-x="-24.619111"
+       inkscape:transform-center-y="-31.925319" />
+    <ellipse
+       transform="translate(-0.23181214,-17.577408)"
+       ry="4.979434"
+       rx="4.9794345"
+       cy="523.67822"
+       cx="747.5332"
+       id="ellipse4419-6-7"
+       style="fill:#000c00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.94265747;stroke-miterlimit:3.0999999;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 752.51264,523.67822 c 0,2.75007 -2.22937,4.97944 -4.97944,4.97944 -2.75006,0 -4.97943,-2.22937 -4.97943,-4.97944 0,-2.75006 2.22937,-4.97943 4.97943,-4.97943 2.75007,0 4.97944,2.22937 4.97944,4.97943 z"
+       sodipodi:cx="747.5332"
+       sodipodi:cy="523.67822"
+       sodipodi:rx="4.9794345"
+       sodipodi:ry="4.979434"
+       inkscape:transform-center-x="53.647393"
+       inkscape:transform-center-y="-31.4202" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="750.59058"
+       y="503.59827"
+       id="text4414-7-5"
+       sodipodi:linespacing="125%"
+       inkscape:transform-center-x="12.225413"
+       inkscape:transform-center-y="-40.207916"><tspan
+         sodipodi:role="line"
+         x="750.59058"
+         y="503.59827"
+         id="tspan4418-5-9"
+         style="font-size:16px">4ième bit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="751.14307"
+       y="537.29443"
+       id="text4414-7-3-2"
+       sodipodi:linespacing="125%"
+       inkscape:transform-center-x="-10.95989"
+       inkscape:transform-center-y="-6.5117188"><tspan
+         sodipodi:role="line"
+         x="751.14307"
+         y="537.29443"
+         id="tspan4418-5-5-28"
+         style="font-size:16px">14-15ième bits</tspan></text>
   </g>
   <g
      style="display:none"
@@ -4875,6 +5009,48 @@
        d="m 531.30209,26.47785 53.97267,0 0,0 -1.12445,24.532181"
        id="path4965-2-0-7-5"
        inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4407-3-5"
+       d="m 906.72349,504.24216 -157.5838,1.01016 -3.03046,-1.01016"
+       style="fill:none;stroke:#ff00ff;stroke-width:2.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <ellipse
+       transform="translate(0.61665021,-18.42587)"
+       ry="4.979434"
+       rx="4.9794345"
+       cy="523.67822"
+       cx="747.5332"
+       id="ellipse4419-6-03"
+       style="fill:#ff0cff;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:2.94265747;stroke-miterlimit:3.0999999;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 752.51264,523.67822 c 0,2.75007 -2.22937,4.97944 -4.97944,4.97944 -2.75006,0 -4.97943,-2.22937 -4.97943,-4.97944 0,-2.75006 2.22937,-4.97943 4.97943,-4.97943 2.75007,0 4.97944,2.22937 4.97944,4.97943 z"
+       sodipodi:cx="747.5332"
+       sodipodi:cy="523.67822"
+       sodipodi:rx="4.9794345"
+       sodipodi:ry="4.979434" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="751.43896"
+       y="502.74979"
+       id="text4414-7-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="751.43896"
+         y="502.74979"
+         id="tspan4418-5-1"
+         style="font-size:16px">4ième bit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="751.99146"
+       y="536.44598"
+       id="text4414-7-3-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="751.99146"
+         y="536.44598"
+         id="tspan4418-5-5-6"
+         style="font-size:16px">14-15ième bits</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -5536,6 +5712,48 @@
          x="312.93799"
          y="-6.0284739"
          style="font-size:30px">Diagramme temporel d'exécution de LEA</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4407-3-61"
+       d="m 905.87502,504.24216 -157.5838,1.01016 -3.03046,-1.01016"
+       style="fill:none;stroke:#ff00ff;stroke-width:2.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <ellipse
+       transform="translate(-0.2318123,-18.42587)"
+       ry="4.979434"
+       rx="4.9794345"
+       cy="523.67822"
+       cx="747.5332"
+       id="ellipse4419-6-5"
+       style="fill:#ff0cff;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:2.94265747;stroke-miterlimit:3.0999999;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 752.51264,523.67822 c 0,2.75007 -2.22937,4.97944 -4.97944,4.97944 -2.75006,0 -4.97943,-2.22937 -4.97943,-4.97944 0,-2.75006 2.22937,-4.97943 4.97943,-4.97943 2.75007,0 4.97944,2.22937 4.97944,4.97943 z"
+       sodipodi:cx="747.5332"
+       sodipodi:cy="523.67822"
+       sodipodi:rx="4.9794345"
+       sodipodi:ry="4.979434" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="750.59052"
+       y="502.74979"
+       id="text4414-7-54"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="750.59052"
+         y="502.74979"
+         id="tspan4418-5-76"
+         style="font-size:16px">4ième bit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="751.14301"
+       y="536.44598"
+       id="text4414-7-3-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="751.14301"
+         y="536.44598"
+         id="tspan4418-5-5-69"
+         style="font-size:16px">14-15ième bits</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -6209,6 +6427,48 @@
          x="312.93799"
          y="-7.0284739"
          style="font-size:30px">Diagramme temporel d'exécution de ST</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4407-3-52"
+       d="m 905.87503,504.24216 -157.5838,1.01016 -3.03046,-1.01016"
+       style="fill:none;stroke:#ff00ff;stroke-width:2.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <ellipse
+       transform="translate(-0.2318127,-18.42587)"
+       ry="4.979434"
+       rx="4.9794345"
+       cy="523.67822"
+       cx="747.5332"
+       id="ellipse4419-6-54"
+       style="fill:#ff0cff;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:2.94265747;stroke-miterlimit:3.0999999;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 752.51264,523.67822 c 0,2.75007 -2.22937,4.97944 -4.97944,4.97944 -2.75006,0 -4.97943,-2.22937 -4.97943,-4.97944 0,-2.75006 2.22937,-4.97943 4.97943,-4.97943 2.75007,0 4.97944,2.22937 4.97944,4.97943 z"
+       sodipodi:cx="747.5332"
+       sodipodi:cy="523.67822"
+       sodipodi:rx="4.9794345"
+       sodipodi:ry="4.979434" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="750.59058"
+       y="502.74982"
+       id="text4414-7-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="750.59058"
+         y="502.74982"
+         id="tspan4418-5-4"
+         style="font-size:16px">4ième bit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="751.14307"
+       y="536.44598"
+       id="text4414-7-3-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="751.14307"
+         y="536.44598"
+         id="tspan4418-5-5-3"
+         style="font-size:16px">14-15ième bits</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -6931,6 +7191,48 @@
          x="311.93799"
          y="-6.0284739"
          style="font-size:30px">Diagramme temporel d'exécution de LDR</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4407-3-8"
+       d="m 907.87503,504.54523 -157.5838,1.01016 -3.03046,-1.01016"
+       style="fill:none;stroke:#ff00ff;stroke-width:2.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <ellipse
+       transform="translate(1.768188,-18.122796)"
+       ry="4.979434"
+       rx="4.9794345"
+       cy="523.67822"
+       cx="747.5332"
+       id="ellipse4419-6-6"
+       style="fill:#ff0cff;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:2.94265747;stroke-miterlimit:3.0999999;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 752.51264,523.67822 c 0,2.75007 -2.22937,4.97944 -4.97944,4.97944 -2.75006,0 -4.97943,-2.22937 -4.97943,-4.97944 0,-2.75006 2.22937,-4.97943 4.97943,-4.97943 2.75007,0 4.97944,2.22937 4.97944,4.97943 z"
+       sodipodi:cx="747.5332"
+       sodipodi:cy="523.67822"
+       sodipodi:rx="4.9794345"
+       sodipodi:ry="4.979434" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="752.59058"
+       y="503.05286"
+       id="text4414-7-88"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="752.59058"
+         y="503.05286"
+         id="tspan4418-5-43"
+         style="font-size:16px">4ième bit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="753.14307"
+       y="536.74908"
+       id="text4414-7-3-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="753.14307"
+         y="536.74908"
+         id="tspan4418-5-5-4"
+         style="font-size:16px">14-15ième bits</tspan></text>
   </g>
   <g
      style="display:none"
@@ -7643,7 +7945,49 @@
            height="180"
            x="1016"
            y="504" /></flowRegion><flowPara
-         id="flowPara7130" /></flowRoot>  </g>
+         id="flowPara7130" /></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path4407-3-4"
+       d="m 905.87503,504.24216 -157.5838,1.01016 -3.03046,-1.01016"
+       style="fill:none;stroke:#ff00ff;stroke-width:2.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <ellipse
+       transform="translate(-0.23181236,-18.425871)"
+       ry="4.979434"
+       rx="4.9794345"
+       cy="523.67822"
+       cx="747.5332"
+       id="ellipse4419-6-8"
+       style="fill:#ff0cff;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:2.94265747;stroke-miterlimit:3.0999999;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 752.51264,523.67822 c 0,2.75007 -2.22937,4.97944 -4.97944,4.97944 -2.75006,0 -4.97943,-2.22937 -4.97943,-4.97944 0,-2.75006 2.22937,-4.97943 4.97943,-4.97943 2.75007,0 4.97944,2.22937 4.97944,4.97943 z"
+       sodipodi:cx="747.5332"
+       sodipodi:cy="523.67822"
+       sodipodi:rx="4.9794345"
+       sodipodi:ry="4.979434" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="750.59058"
+       y="502.74979"
+       id="text4414-7-71"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="750.59058"
+         y="502.74979"
+         id="tspan4418-5-72"
+         style="font-size:16px">4ième bit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="751.14307"
+       y="536.44598"
+       id="text4414-7-3-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="751.14307"
+         y="536.44598"
+         id="tspan4418-5-5-22"
+         style="font-size:16px">14-15ième bits</tspan></text>
+  </g>
   <g
      style="opacity:0.98000004;display:none"
      inkscape:label="Br"
@@ -8277,6 +8621,48 @@
          x="312.93799"
          y="-7.0284739"
          style="font-size:30px">Diagramme temporel d'exécution de BR</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4407-3-0"
+       d="m 905.87503,504.24215 -157.5838,1.01016 -3.03046,-1.01016"
+       style="fill:none;stroke:#ff00ff;stroke-width:2.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <ellipse
+       transform="translate(-0.23181223,-18.425871)"
+       ry="4.979434"
+       rx="4.9794345"
+       cy="523.67822"
+       cx="747.5332"
+       id="ellipse4419-6-61"
+       style="fill:#ff0cff;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:2.94265747;stroke-miterlimit:3.0999999;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 752.51264,523.67822 c 0,2.75007 -2.22937,4.97944 -4.97944,4.97944 -2.75006,0 -4.97943,-2.22937 -4.97943,-4.97944 0,-2.75006 2.22937,-4.97943 4.97943,-4.97943 2.75007,0 4.97944,2.22937 4.97944,4.97943 z"
+       sodipodi:cx="747.5332"
+       sodipodi:cy="523.67822"
+       sodipodi:rx="4.9794345"
+       sodipodi:ry="4.979434" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="750.59058"
+       y="502.74979"
+       id="text4414-7-59"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="750.59058"
+         y="502.74979"
+         id="tspan4418-5-49"
+         style="font-size:16px">4ième bit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="751.14307"
+       y="536.44598"
+       id="text4414-7-3-09"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="751.14307"
+         y="536.44598"
+         id="tspan4418-5-5-1"
+         style="font-size:16px">14-15ième bits</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8898,6 +9284,48 @@
          x="311.93799"
          y="-8.0284739"
          style="font-size:30px">Diagramme temporel d'exécution de JMP</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4407-3-1"
+       d="m 905.87503,504.24215 -157.5838,1.01016 -3.03046,-1.01016"
+       style="fill:none;stroke:#ff00ff;stroke-width:2.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <ellipse
+       transform="translate(-0.23181269,-18.425871)"
+       ry="4.979434"
+       rx="4.9794345"
+       cy="523.67822"
+       cx="747.5332"
+       id="ellipse4419-6-15"
+       style="fill:#ff0cff;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:2.94265747;stroke-miterlimit:3.0999999;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 752.51264,523.67822 c 0,2.75007 -2.22937,4.97944 -4.97944,4.97944 -2.75006,0 -4.97943,-2.22937 -4.97943,-4.97944 0,-2.75006 2.22937,-4.97943 4.97943,-4.97943 2.75007,0 4.97944,2.22937 4.97944,4.97943 z"
+       sodipodi:cx="747.5332"
+       sodipodi:cy="523.67822"
+       sodipodi:rx="4.9794345"
+       sodipodi:ry="4.979434" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="750.59058"
+       y="502.74979"
+       id="text4414-7-97"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="750.59058"
+         y="502.74979"
+         id="tspan4418-5-767"
+         style="font-size:16px">4ième bit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="751.14307"
+       y="536.44598"
+       id="text4414-7-3-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="751.14307"
+         y="536.44598"
+         id="tspan4418-5-5-65"
+         style="font-size:16px">14-15ième bits</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -10440,6 +10868,48 @@
        d="m 434.77583,628.3364 16.96925,-0.84846 -0.84846,-16.96926 1.69692,-0.84846 -0.84846,0.84846"
        id="path5879-6"
        inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4407-3-9"
+       d="m 905.87502,504.24215 -157.5838,1.01016 -3.03046,-1.01016"
+       style="fill:none;stroke:#ff00ff;stroke-width:2.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <ellipse
+       transform="translate(-0.23181258,-18.42587)"
+       ry="4.979434"
+       rx="4.9794345"
+       cy="523.67822"
+       cx="747.5332"
+       id="ellipse4419-6-4"
+       style="fill:#ff0cff;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:2.94265747;stroke-miterlimit:3.0999999;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 752.51264,523.67822 c 0,2.75007 -2.22937,4.97944 -4.97944,4.97944 -2.75006,0 -4.97943,-2.22937 -4.97943,-4.97944 0,-2.75006 2.22937,-4.97943 4.97943,-4.97943 2.75007,0 4.97944,2.22937 4.97944,4.97943 z"
+       sodipodi:cx="747.5332"
+       sodipodi:cy="523.67822"
+       sodipodi:rx="4.9794345"
+       sodipodi:ry="4.979434" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="750.59058"
+       y="502.74976"
+       id="text4414-7-81"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="750.59058"
+         y="502.74976"
+         id="tspan4418-5-2"
+         style="font-size:16px">4ième bit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="751.14307"
+       y="536.44598"
+       id="text4414-7-3-93"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="751.14307"
+         y="536.44598"
+         id="tspan4418-5-5-9"
+         style="font-size:16px">14-15ième bits</tspan></text>
   </g>
   <g
      style="display:none"
@@ -11555,6 +12025,48 @@
        d="m 433.80585,629.54796 16.96925,-0.84846 -0.84846,-16.96926 1.69692,-0.84846 -0.84846,0.84846"
        id="path5879-5"
        inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4407-3-85"
+       d="m 907.57196,504.24216 -157.5838,1.01016 -3.03046,-1.01016"
+       style="fill:none;stroke:#ff00ff;stroke-width:2.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <ellipse
+       transform="translate(1.4651133,-18.425871)"
+       ry="4.979434"
+       rx="4.9794345"
+       cy="523.67822"
+       cx="747.5332"
+       id="ellipse4419-6-09"
+       style="fill:#ff0cff;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:2.94265747;stroke-miterlimit:3.0999999;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 752.51264,523.67822 c 0,2.75007 -2.22937,4.97944 -4.97944,4.97944 -2.75006,0 -4.97943,-2.22937 -4.97943,-4.97944 0,-2.75006 2.22937,-4.97943 4.97943,-4.97943 2.75007,0 4.97944,2.22937 4.97944,4.97943 z"
+       sodipodi:cx="747.5332"
+       sodipodi:cy="523.67822"
+       sodipodi:rx="4.9794345"
+       sodipodi:ry="4.979434" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="752.28748"
+       y="502.74979"
+       id="text4414-7-63"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="752.28748"
+         y="502.74979"
+         id="tspan4418-5-8"
+         style="font-size:16px">4ième bit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="752.83997"
+       y="536.44598"
+       id="text4414-7-3-56"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="752.83997"
+         y="536.44598"
+         id="tspan4418-5-5-11"
+         style="font-size:16px">14-15ième bits</tspan></text>
   </g>
   <g
      transform="translate(0,40.905427)"
@@ -12626,12 +13138,54 @@
        d="m 433.38198,629.24562 16.96925,-0.84846 -0.84846,-16.96926 1.69692,-0.84846 -0.84846,0.84846"
        id="path5879-62"
        inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4407-3-84"
+       d="m 905.87503,504.24216 -157.5838,1.01016 -3.03046,-1.01016"
+       style="fill:none;stroke:#ff00ff;stroke-width:2.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <ellipse
+       transform="translate(-0.23181247,-18.42587)"
+       ry="4.979434"
+       rx="4.9794345"
+       cy="523.67822"
+       cx="747.5332"
+       id="ellipse4419-6-81"
+       style="fill:#ff0cff;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:2.94265747;stroke-miterlimit:3.0999999;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 752.51264,523.67822 c 0,2.75007 -2.22937,4.97944 -4.97944,4.97944 -2.75006,0 -4.97943,-2.22937 -4.97943,-4.97944 0,-2.75006 2.22937,-4.97943 4.97943,-4.97943 2.75007,0 4.97944,2.22937 4.97944,4.97943 z"
+       sodipodi:cx="747.5332"
+       sodipodi:cy="523.67822"
+       sodipodi:rx="4.9794345"
+       sodipodi:ry="4.979434" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="750.59058"
+       y="502.74979"
+       id="text4414-7-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="750.59058"
+         y="502.74979"
+         id="tspan4418-5-30"
+         style="font-size:16px">4ième bit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="751.14307"
+       y="536.44598"
+       id="text4414-7-3-44"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="751.14307"
+         y="536.44598"
+         id="tspan4418-5-5-44"
+         style="font-size:16px">14-15ième bits</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="g6428"
      inkscape:label="Jsrr"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,40.905427)"
      sodipodi:insensitive="true">
     <path
@@ -13710,5 +14264,47 @@
        d="m 432.29121,628.63947 16.96925,-0.84846 -0.84846,-16.96926 1.69692,-0.84846 -0.84846,0.84846"
        id="path5879-1"
        inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4407-3-17"
+       d="m 906.72349,504.24215 -157.5838,1.01016 -3.03046,-1.01016"
+       style="fill:none;stroke:#ff00ff;stroke-width:2.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <ellipse
+       transform="translate(0.61665019,-18.42587)"
+       ry="4.979434"
+       rx="4.9794345"
+       cy="523.67822"
+       cx="747.5332"
+       id="ellipse4419-6-59"
+       style="fill:#ff0cff;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:2.94265747;stroke-miterlimit:3.0999999;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 752.51264,523.67822 c 0,2.75007 -2.22937,4.97944 -4.97944,4.97944 -2.75006,0 -4.97943,-2.22937 -4.97943,-4.97944 0,-2.75006 2.22937,-4.97943 4.97943,-4.97943 2.75007,0 4.97944,2.22937 4.97944,4.97943 z"
+       sodipodi:cx="747.5332"
+       sodipodi:cy="523.67822"
+       sodipodi:rx="4.9794345"
+       sodipodi:ry="4.979434" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="751.43903"
+       y="502.74979"
+       id="text4414-7-62"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="751.43903"
+         y="502.74979"
+         id="tspan4418-5-17"
+         style="font-size:16px">4ième bit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="751.99152"
+       y="536.44598"
+       id="text4414-7-3-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="751.99152"
+         y="536.44598"
+         id="tspan4418-5-5-5"
+         style="font-size:16px">14-15ième bits</tspan></text>
   </g>
 </svg>
