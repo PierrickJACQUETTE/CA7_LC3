@@ -1,7 +1,7 @@
 Circuit à faire (commentaire en même temps) :
 
 - Load/Store : (1)
-- ALU : set et reset en 11
+- ALU : set et reset en 11 + plusieurs tests à faire à la main pour vérifier => les conserver
 - NZP
 - RegPC : (2)
 - GetAddr : (1)
@@ -14,6 +14,26 @@ Circuit à modifier pour LDI et STI (1):
 Circuit à modifier pour JSR et JSRR (2):
 - JSR/JSRR
 - DecodeIr
+
+Fichier test à faire, plusieurs fois chaque instruction avec arguments différent dans le même fichier:
+.asm .mem .out .ref
+
+-ADD plusieurs
+-AND plusieurs
+-NOT plusieurs
+-SET RESET simple + plusieurs
+-LD
+-LDR
+-ST
+-STR
+-BR nzp n z p nz np zp 
+-JMP
+-LDI
+-STI
+-JSR simple + plusieurs
+-JSRR simple + plusieurs
+-LDI simple + plusieurs
+-STI simple + plusieurs
 
 Circuit fini : 
 - BiClock
