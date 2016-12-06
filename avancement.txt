@@ -1,7 +1,6 @@
 Circuit à faire (commentaire en même temps) :
 
 - Load/Store : (1)
-- ALU : set et reset en 11 + plusieurs tests à faire à la main pour vérifier => les conserver
 - NZP
 - RegPC : (2)
 - GetAddr : (1)
@@ -16,24 +15,24 @@ Circuit à modifier pour JSR et JSRR (2):
 - DecodeIr
 
 Fichier test à faire, plusieurs fois chaque instruction avec arguments différent dans le même fichier:
-.asm .mem .out .ref
+.asm .mem .ref
 
 -ADD plusieurs
 -AND plusieurs
 -NOT plusieurs
--SET RESET simple + plusieurs
--LD
--LDR
--ST
--STR
--BR nzp n z p nz np zp 
--JMP
--LDI
--STI
+-LD plusieurs
+-LDR plusieurs
+-ST plusieurs
+-STR plusieurs
+-BR nzp n z p nz np zp + plusieurs
+-JMP plusieurs
+-LDI plusieurs
+-STI plusieurs
 -JSR simple + plusieurs
 -JSRR simple + plusieurs
 -LDI simple + plusieurs
 -STI simple + plusieurs
+-Un gros programme faisant quelque chose de précis et utilisant toutes les instructions
 
 Circuit fini : 
 - BiClock
@@ -42,3 +41,4 @@ Circuit fini :
 - Offset9
 - Or16
 - Registres
+- ALU
