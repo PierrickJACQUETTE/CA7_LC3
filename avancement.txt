@@ -1,7 +1,5 @@
 Circuit à faire (commentaire en même temps) :
 
-- Load/Store : (1)
-- NZP
 - RegPC : (2)
 - GetAddr : (1)
 
@@ -12,12 +10,12 @@ Circuit à modifier pour LDI et STI (1):
 
 Circuit à modifier pour JSR et JSRR (2):
 - JSR/JSRR
+- Load/Store
 - DecodeIr
 
 Fichier test à faire, plusieurs fois chaque instruction avec arguments différent dans le même fichier:
 .asm .mem .ref
 
--ADD plusieurs
 -AND plusieurs
 -NOT plusieurs
 -LD plusieurs
@@ -42,3 +40,4 @@ Circuit fini :
 - Or16
 - Registres
 - ALU
+- NZP
