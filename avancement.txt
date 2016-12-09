@@ -1,11 +1,8 @@
-Circuit à faire (commentaire en même temps) :
-
-- GetAddr : (1)
-
 Circuit à modifier pour LDI et STI (1):
 - LDI/STI
 - DecodeIr
 - RamCtrl
+- GetAddr
 
 Circuit à modifier pour JSR et JSRR (2):
 - JSR/JSRR
