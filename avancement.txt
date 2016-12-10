@@ -1,3 +1,5 @@
+Pierrick : Reprendre br, jmp, etc pour les negatifs, positifs
+
 Circuit à modifier pour LDI et STI (1):
 - LDI/STI
 - DecodeIr
@@ -9,6 +11,7 @@ Circuit à modifier pour JSR et JSRR (2):
 - Load/Store
 - DecodeIr
 - RegPC
+=> En cours, en attente
 
 Fichier test à faire, plusieurs fois chaque instruction avec arguments différent dans le même fichier:
 .asm .mem .ref
@@ -17,12 +20,12 @@ Fichier test à faire, plusieurs fois chaque instruction avec arguments différe
 -LDR plusieurs
 -ST plusieurs
 -STR plusieurs
--BR nzp n z p nz np zp + plusieurs
--JMP plusieurs
+-BR nzp n z p nz np zp + plusieurs => saut negatif et positif
+-JMP plusieurs => saut negatif et positif
 -LDI plusieurs
 -STI plusieurs
--JSR simple + plusieurs
--JSRR simple + plusieurs
+-JSR simple + plusieurs => saut negatif et positif
+-JSRR simple + plusieurs => saut negatif et positif
 -LDI simple + plusieurs
 -STI simple + plusieurs
 -Un gros programme faisant quelque chose de précis et utilisant toutes les instructions
