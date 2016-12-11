@@ -16,10 +16,6 @@ Circuit à modifier pour JSR et JSRR (2):
 Fichier test à faire, plusieurs fois chaque instruction avec arguments différent dans le même fichier:
 .asm .mem .ref
 
--LEA plusieurs
--LDR plusieurs
--ST plusieurs
--STR plusieurs
 -BR nzp n z p nz np zp + plusieurs => saut negatif et positif
 -JMP plusieurs => saut negatif et positif
 -LDI plusieurs
