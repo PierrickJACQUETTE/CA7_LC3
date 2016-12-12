@@ -8,7 +8,7 @@ Circuit à modifier pour LDI et STI :
 Fichier test à faire, plusieurs fois chaque instruction avec arguments différent dans le même fichier:
 .asm .mem .ref
 
--BR nzp n z p nz np zp + plusieurs => saut negatif et positif
+-BR nzp + plusieurs => saut negatif et positif
 -JMP plusieurs => saut negatif et positif
 -LDI plusieurs
 -STI plusieurs
