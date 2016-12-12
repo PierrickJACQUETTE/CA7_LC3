@@ -1,17 +1,9 @@
-Pierrick : Reprendre br, jmp, etc pour les negatifs, positifs
 
-Circuit à modifier pour LDI et STI (1):
+Circuit à modifier pour LDI et STI :
 - LDI/STI
 - DecodeIr
 - RamCtrl
 - GetAddr
-
-Circuit à modifier pour JSR et JSRR (2):
-- JSR/JSRR
-- Load/Store
-- DecodeIr
-- RegPC
-=> En cours, en attente
 
 Fichier test à faire, plusieurs fois chaque instruction avec arguments différent dans le même fichier:
 .asm .mem .ref
@@ -31,7 +23,11 @@ Circuit fini :
 - GetCst
 - Offset6
 - Offset9
+- Offset11
 - Or16
 - Registres
 - ALU
 - NZP
+- JSR/JSRR
+- Load/Store
+- RegPC
