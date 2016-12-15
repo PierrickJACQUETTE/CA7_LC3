@@ -1,10 +1,6 @@
 Fichier test à faire, plusieurs fois chaque instruction avec arguments différent dans le même fichier:
 .asm .mem .ref
 
--BR nzp + plusieurs => saut negatif et positif
--JMP plusieurs => saut negatif et positif
 -JSR simple + plusieurs => saut negatif et positif
 -JSRR simple + plusieurs => saut negatif et positif
--LDI simple + plusieurs
--STI simple + plusieurs
--Un gros programme faisant quelque chose de précis et utilisant toutes les instructions
+-STI plusieurs
