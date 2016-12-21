@@ -1,3 +1,0 @@
-Fichier test à faire, plusieurs fois chaque instruction avec arguments différent dans le même fichier:
-.asm .mem .ref
-
