@@ -6,20 +6,26 @@
 	AND R0,R0,0
 	AND R1,R1,0
 	AND R2,R2,0
+	AND R6,R6,0
 	LEA R2,etape1
 	JSRR R2
+	LEA R1,fin
+	JMP R1
 
 etape0: ADD R0,R0,4
 	LEA R2,etape3
+	ADD R1,R7,0
 	JSRR R2
-	RET
+	JMP R1
 
 etape1: ADD R1,R1,4
-	AND R0,R0,0
+	ADD R6,R7,0
 	JSR etape0
-	RET
+	JMP R6
 	
-etape3: ADD R0,R0,15
+etape3: ADD R0,R0,11
 	RET
+
+fin:	NOP
 
 .END

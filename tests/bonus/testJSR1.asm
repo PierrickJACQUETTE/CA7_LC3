@@ -5,14 +5,20 @@
 
 	AND R0,R0,0
 	AND R1,R1,0
+	AND R2,R2,0
+	AND R6,R6,0
+	LEA R2,fin
 	JSR etape1
-	NOP
+	JMP R2
 
 etape2: ADD R0,R0,15
 	RET
 
 etape1: ADD R1,R1,4
+	ADD R6,R7,0
 	JSR etape2
-	RET
+	JMP R6
+
+fin:	NOP
 
 .END
